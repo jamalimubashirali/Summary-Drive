@@ -1,0 +1,16 @@
+#home,#courses,#addmitions,#login{
+    text-decoration: solid;
+}
+section .container h1{
+font-size: 12vmin;
+font-weight: bold;
+}
+
+section .container .mae{
+    text-align: center;
+}
+
+footer .container .berow{
+    float: right;
+}
+
