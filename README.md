@@ -5,4 +5,4 @@ Its purpose was
 ->To provide summaries and
 ->To know about the books you want to study
 
-#Feel free to fall in the ocean of summaries in our drive 
+Feel free to fall in the ocean of summaries in our drive 
