@@ -1,0 +1,34 @@
+body {
+    font-family: Roboto,sans-serif;
+}
+body header{
+    font-family: Roboto,sans-serif;
+}
+body footer{
+    font-family: Roboto,sans-serif;
+}
+h4{
+    font-family: Roboto,sans-serif;
+    font-weight: 400;
+}
+h3{
+    margin: 50px;
+    font-family: Roboto,sans-serif;
+    font-weight: 500;
+}
+.wow{
+    margin: 50px;
+    font-family: Roboto,sans-serif;
+    font-weight: 400;
+}
+.inner{
+    position: relative;
+    top: 0px;
+    display: flex;
+    padding: 20px;
+    margin: 20px;
+}
+.des{
+    padding: 15px;
+    margin: 15px;
+}
