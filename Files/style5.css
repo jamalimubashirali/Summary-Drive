@@ -1,0 +1,66 @@
+section{
+    padding-top: 150px;
+    padding-bottom: 150px;
+    height: 100%;
+    background-color: #EF5D58;
+    font-family: Roboto (Regular,Medium,Bold,Italic,Bold Italic, Black, Black Italic);
+}
+
+.global-container{
+    height: 100%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: #517174;
+}
+
+.login-form{
+    width:380px;
+    height: 450px;
+    margin: 20px;
+    border-radius: 10px !important;
+}
+
+form{
+    padding-top: 10px;
+    font-size: 14px;
+    margin-top: 30px;
+}
+
+label{
+    font-size: medium;
+    font-weight: 500;
+    float: left;
+    margin-bottom: 10px;
+}
+
+input[type="email"],
+input[type="password"]{
+     border: 2px solid #517174;
+     border-radius: 10px;
+     margin-bottom:15px;
+}
+
+input[type="email"]:focus,
+input[type="password"]:focus{
+    outline: none;
+    border: none;
+    margin: 0;
+}
+
+.card-title{
+    font-weight: 900;
+    padding-top: 20px;
+}
+
+btn{
+    font-size: 14px;
+    transform: translateY(10px);
+    border-radius: 10px !important;
+}
+
+.signup{
+    text-align: center;
+    padding-top: 25px;
+}
+
