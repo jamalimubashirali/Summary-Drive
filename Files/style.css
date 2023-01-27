@@ -1,5 +1,6 @@
 #home,#courses,#addmitions,#login{
     text-decoration: solid;
+    padding: 9px;
 }
 section .container h1{
 font-size: 12vmin;
@@ -13,4 +14,5 @@ section .container .mae{
 footer .container .berow{
     float: right;
 }
+
 
